@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amount_tv">Amount:</string>
+    <string name="amount_et">Input Total Cost</string>
+    <string name="pax_tv">Num of Pax:</string>
+    <string name="pax_et">Input Number of People</string>
+    <string name="service_off">NO SVS</string>
+    <string name="service_on">SVS</string>
+    <string name="gst_off">NO GST</string>
+    <string name="gst_on">GST</string>
+    <string name="discount_tv">Discount (%):</string>
+    <string name="discount_et">Input Discount Percentage</string>
+    <string name="cash">Cash</string>
+    <string name="payNow">PayNow</string>
+    <string name="split">SPLIT</string>
+    <string name="reset">RESET</string>
+    <string name="totalBill"> </string>
+    <string name="EachPay"> </string>
+</resources>
